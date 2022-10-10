@@ -1,9 +1,11 @@
 SwiftyRSA
 =========
 
-**Maintainer(s):** [@starback](https://github.com/starback)
-
-**Contributor:** [@devNathan](https://github.com/devNathan)
+Contributors
+------------
+<a href="https://github.com/TakeScoop/SwiftyRSA/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TakeScoop/SwiftyRSA" />
+</a>
 
 About this fork
 ------------
